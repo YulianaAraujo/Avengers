@@ -86,14 +86,7 @@ th, td{
     padding: 8px;
     text-align: center;
 }
-img{
-   border-radius: 8px;
-   height: 270px;
-   width: 300px;
-   max-width: 100%;
-   height:auto;
-   
-}
+
 
 .center{
     display: block;
