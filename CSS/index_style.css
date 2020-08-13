@@ -47,6 +47,13 @@ div#heroe {
     
 }
 
+div#footer{
+    width: 100%;
+    height:30px;
+    background-color: #5d5d5e;
+    top: 730px;
+}
+
 
 p,h3,ul,li,caption{
     color: white;
@@ -87,7 +94,6 @@ th, td{
     text-align: center;
 }
 img{
-    
    border-radius: 8px;
    height: 270px;
    width: 300px;
