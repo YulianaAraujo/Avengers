@@ -1,0 +1,113 @@
+@charset "utf-8";
+
+*{
+   padding:0px; 
+   margin:0px;
+}
+
+.relative{
+    position: relative;
+}
+
+.absolute{
+    position: absolute;
+    top: 600px;
+}
+
+
+
+h1{
+ text-align: center;   
+ font-size: 3em;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-style: inherit;
+ 
+}
+
+h2{
+    text-align: center;
+    font-size: 1.4em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+
+div#tabla{
+    width: 1150px;
+    max-width: 100%;
+}
+
+div#heroe {
+    
+    width: 1150px;
+    height: 500px;
+    background-color: #FF3333;
+    border-radius: 14px;
+    border: 2px solid #af0303;
+    max-width: 100%;
+    
+}
+
+
+p,h3,ul,li,caption{
+    color: white;
+    font-family: serif;
+}
+
+caption{
+    font-size: 1.2em;
+}
+
+h3{
+  font-size: 2.5em;
+  font-family: fantasy;  
+}
+
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+
+table,th,td{
+    border: 2px solid #af0303;
+    
+}
+
+
+th{
+    height:35px;
+    text-align: center;
+    background-color: #FF3333;
+    color:white;
+}
+
+th, td{
+    padding: 8px;
+    text-align: center;
+}
+img{
+   border-radius: 8px;
+   height: 270px;
+   width: 300px;
+   max-width: 100%;
+   height:auto;
+   
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+.boton{
+    
+    border: 1px solid #5d5d5e; 
+    border-radius: 50px;
+    padding: 10px;
+    background-color: #363636;
+    color: #ffffff;
+    font-family: 'Helvetica'
+
+}
+
